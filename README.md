@@ -1,4 +1,4 @@
 tester
 ======
 
-This is the shit
+This is a nice projcet.
